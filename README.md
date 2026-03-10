@@ -21,7 +21,7 @@ Supports basic CRUD operations: create, read, update, and delete.
 
 1. Clone the repository:
    ```bash
-   git clone <your-repo-url>
+   git clone https://github.com/ThembelihleQueeneth/shopping-list-api.git
   
    ```
 
